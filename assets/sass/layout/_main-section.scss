@@ -1,0 +1,100 @@
+.presentation {
+  background-color: $jelly-bean;
+  height: 25rem;
+
+  &__text {
+    text-align: center;
+    padding-top: 10rem;
+  }
+
+  &__text--title {
+    text-align: center;
+    padding-top: 7rem;
+  }
+}
+
+.aboutTomatoes {
+  background-color: $granite-gray;
+  height: auto;
+  margin: auto;
+  &__img {
+    padding-top: 3rem;
+    display: block;
+    max-width: 40%;
+    margin: auto;
+    padding-bottom: 2rem;
+    }
+  }
+
+  .descriptionLimache {
+    background-color: $snow;
+    height: auto;
+    padding-top: 5rem;
+    text-align: center;
+    margin: auto;
+    &__img {
+      max-width: 50%;
+      display: block;
+      margin: auto;
+    }
+    &__img--text  {
+      text-align: center;
+
+    }
+  }
+.nosotros {
+  background-color: $jelly-bean;
+  height: 21rem;
+  margin: 0;
+
+&__title {
+  padding-top: 7rem;
+    text-align: center;
+}
+}
+.persons {
+  background-color: $snow;
+  padding-bottom: 3rem;
+  height: auto;
+  text-align: center;
+
+  &__container {
+    max-width: 20%;
+    display: block;
+    margin: auto;
+    padding-top: 3rem;
+  }
+  &__container1 {
+    max-width: 20%;
+    display: block;
+    margin: auto;
+  }
+  &__img--text {
+    text-align: center;
+  }
+}
+
+.business {
+  height: 30rem;
+  background-color: $jelly-bean;
+
+  &__question {
+    padding-top: 2rem;
+    text-align: center;
+
+  }
+  &__question--button {
+    text-align: center;
+    }
+}
+.footer {
+  background-color: $granite-gray;
+
+&__logo {
+  max-width: 20%;
+  padding-left: 35rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+}
+}

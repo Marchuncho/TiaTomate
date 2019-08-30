@@ -1,0 +1,55 @@
+h1 {
+
+font-family: $raleway;
+font-weight: $bold;
+color: $white;
+font-size: $xx-large;
+}
+
+h2 {
+  font-family: $raleway;
+    text-align: center;
+    color: $white;
+    font-size: $large;
+}
+
+h3 {
+  font-family: $raleway;
+  text-align: center;
+  font-size: $large;
+}
+
+.about__img--text{
+ & p {
+  font-family: $raleway;
+  text-align: center;
+  font-size: $medium;
+  color: $white;
+  padding-bottom: 4rem;
+}
+}
+h4 {
+  font-family: $raleway;
+  font-size: $xx-large;
+  font-weight: $bold;
+  color: $white;
+}
+.persons {
+  & p {
+    font-family: $raleway;
+    text-align: center;
+    font-size: $medium;
+    padding-bottom: 4rem;
+    color: $granite-gray;
+  }
+}
+
+.descriptionLimache{
+  & p{
+    font-family: $raleway;
+    color: $granite-gray;
+    text-align: center;
+    font-size: $medium;
+    padding-bottom: 4rem;
+  }
+}

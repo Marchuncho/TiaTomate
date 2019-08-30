@@ -1,0 +1,175 @@
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  color: #fff;
+  font-size: 100px;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+}
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+.about__img--text p {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+  padding-bottom: 4rem;
+}
+
+h4 {
+  font-family: "Raleway", sans-serif;
+  font-size: 100px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.persons p {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  padding-bottom: 4rem;
+  color: #686963;
+}
+
+.descriptionLimache p {
+  font-family: "Raleway", sans-serif;
+  color: #686963;
+  text-align: center;
+  font-size: 18px;
+  padding-bottom: 4rem;
+}
+
+.header {
+  padding-top: 2rem;
+  padding-left: 0.25rem;
+}
+.header__logo {
+  height: 0.1rem;
+}
+.header__logo--img {
+  padding-left: 5rem;
+  max-width: 15%;
+}
+
+.presentation {
+  background-color: #e56353;
+  height: 25rem;
+}
+.presentation__text {
+  text-align: center;
+  padding-top: 10rem;
+}
+.presentation__text--title {
+  text-align: center;
+  padding-top: 7rem;
+}
+
+.aboutTomatoes {
+  background-color: #686963;
+  height: auto;
+  margin: auto;
+}
+.aboutTomatoes__img {
+  padding-top: 3rem;
+  display: block;
+  max-width: 40%;
+  margin: auto;
+  padding-bottom: 2rem;
+}
+
+.descriptionLimache {
+  background-color: #fafafa;
+  height: auto;
+  padding-top: 5rem;
+  text-align: center;
+  margin: auto;
+}
+.descriptionLimache__img {
+  max-width: 50%;
+  display: block;
+  margin: auto;
+}
+.descriptionLimache__img--text {
+  text-align: center;
+}
+
+.nosotros {
+  background-color: #e56353;
+  height: 21rem;
+  margin: 0;
+}
+.nosotros__title {
+  padding-top: 7rem;
+  text-align: center;
+}
+
+.persons {
+  background-color: #fafafa;
+  padding-bottom: 3rem;
+  height: auto;
+  text-align: center;
+}
+.persons__container {
+  max-width: 20%;
+  display: block;
+  margin: auto;
+  padding-top: 3rem;
+}
+.persons__container1 {
+  max-width: 20%;
+  display: block;
+  margin: auto;
+}
+.persons__img--text {
+  text-align: center;
+}
+
+.business {
+  height: 30rem;
+  background-color: #e56353;
+}
+.business__question {
+  padding-top: 2rem;
+  text-align: center;
+}
+.business__question--button {
+  text-align: center;
+}
+
+.footer {
+  background-color: #686963;
+}
+.footer__logo {
+  max-width: 20%;
+  padding-left: 35rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.button_bussines {
+  color: #686963;
+  font-size: 18px;
+  background-color: #fafafa;
+  border-radius: 25px;
+  border: 1px solid #686963;
+}
+
+/*# sourceMappingURL=main.css.map */
